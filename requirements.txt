@@ -1,0 +1,15 @@
+streamlit
+yfinance
+pandas
+pandas_ta
+plotly
+pytz
+numpy
+scikit-learn
+catboost
+tensorflow
+nsepython
+streamlit-aggrid
+upstox-python-sdk
+websocket-client
+requests
